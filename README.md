@@ -1,5 +1,5 @@
 # Gestion-de-portfeuille-Rshiny
-Lien de l'application: https://sensory.shinyapps.io/valueatrisk/
+Lien de l'application: https://bayar.shinyapps.io/valueatrisk/
 
 1-Analyse des entreprises
 
